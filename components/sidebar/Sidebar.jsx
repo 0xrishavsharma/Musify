@@ -43,7 +43,17 @@ const Sidebar = () => {
       </div>
       
       {/* // Playlists - Will be rendered with the help of Spotify Api */}
+      <div className="flex flex-col gap-4">
+      <p className="cursor-pointer text-white opacity-60 hover:opacity-100">Playlist</p>
        <p className="cursor-pointer text-white opacity-60 hover:opacity-100">Playlist</p>
+       <p className="cursor-pointer text-white opacity-60 hover:opacity-100">Playlist</p>
+       <p className="cursor-pointer text-white opacity-60 hover:opacity-100">Playlist</p>
+       <p className="cursor-pointer text-white opacity-60 hover:opacity-100">Playlist</p>
+       <p className="cursor-pointer text-white opacity-60 hover:opacity-100">Playlist</p>
+       <p className="cursor-pointer text-white opacity-60 hover:opacity-100">Playlist</p>
+       <p className="cursor-pointer text-white opacity-60 hover:opacity-100">Playlist</p>
+      </div>
+     
     </div>
     
     
